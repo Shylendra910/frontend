@@ -43,7 +43,7 @@
 <a href="contact.html">Login</a>
 <a href="contact.html">SignIn</a>
 <a href="contact.html">Login</a>
-<a href="contact.html">Master</a>
+<a href="contact.html">Masters</a>
             <a href="contact.html">Contact</a>
         </nav>
     </header>
