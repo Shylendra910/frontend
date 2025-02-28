@@ -42,6 +42,7 @@
             <a href="about.html">About</a>
 <a href="contact.html">Logins pages</a>
 <a href="contact.html">SignIn</a>
+<a href="contact.html">iam bug fixer</a>
 
             <a href="contact.html">Contact</a>
         </nav>
