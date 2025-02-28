@@ -42,8 +42,7 @@
             <a href="about.html">About</a>
 <a href="contact.html">Login</a>
 <a href="contact.html">SignIn</a>
-<a href="contact.html">Login</a>
-<a href="contact.html">Masters1111</a>
+
             <a href="contact.html">Contact</a>
         </nav>
     </header>
